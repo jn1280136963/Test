@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c066a32c-48d2-4b11-9aea-62bb99107caa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\Administrator\.m2\repository" />
+        <option name="mavenHome" value="$USER_HOME$/Desktop/JAVA/apache-maven-3.6.2" />
+        <option name="userSettingsFile" value="C:\Users\Administrator\Desktop\JAVA\apache-maven-3.6.2\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d7IXwonaA2OhozwvVjKvOGPZOz" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/precision" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatSettingConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\springdemo01\springmvcdemo\src\main\resources\web" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springdemo01\springmvcdemo\src\main\webapp\WEB-INF" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springdemo01\springmvcdemo\src\main\webapp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\springdemo01\springmvcdemo\src\main\resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\springdemo01\springmvcdemo\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Smart Tomcat.Unnamed">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="precision" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zopen.precision.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" editBeforeRun="true" singleton="false" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="true" />
+      <option name="contextPath" value="/springmvcdemo" />
+      <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
+      <option name="envOptions" />
+      <option name="moduleName" value="springmvcdemo" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.30" />
+          <option name="number" value="0" />
+          <option name="path" value="D:\google-down\apache-tomcat-9.0.30" />
+          <option name="version" value="9.0.30.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" editBeforeRun="true" singleton="false" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="true" />
+      <option name="contextPath" value="/springmvcdemo" />
+      <option name="docBase" value="C:\Users\Administrator\IdeaProjects\springdemo01\springmvcdemo" />
+      <option name="envOptions" />
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.30" />
+          <option name="number" value="0" />
+          <option name="path" value="D:\google-down\apache-tomcat-9.0.30" />
+          <option name="version" value="9.0.30.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c066a32c-48d2-4b11-9aea-62bb99107caa" name="Default Changelist" comment="" />
+      <created>1591769747298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591769747298</updated>
+      <workItem from="1591769751346" duration="1991000" />
+      <workItem from="1591771942188" duration="2609000" />
+      <workItem from="1591774572212" duration="4374000" />
+      <workItem from="1591835730043" duration="758000" />
+      <workItem from="1591836742974" duration="10065000" />
+      <workItem from="1591874116320" duration="514000" />
+      <workItem from="1591874648413" duration="94000" />
+      <workItem from="1591874760490" duration="2349000" />
+      <workItem from="1591878758903" duration="759000" />
+      <workItem from="1591879561908" duration="1555000" />
+      <workItem from="1591923043533" duration="4086000" />
+      <workItem from="1592282464612" duration="571000" />
+      <workItem from="1592384622439" duration="1755000" />
+      <workItem from="1592617521756" duration="1882000" />
+      <workItem from="1592621647514" duration="20000" />
+      <workItem from="1592808113773" duration="130000" />
+      <workItem from="1592808277886" duration="74000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="181" key="#Notifications" timestamp="1592620402719">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="181" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1592620402719" />
+    <state x="874" y="175" key="#Project_Structure" timestamp="1591836582742">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="874" y="175" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1591836582742" />
+    <state x="873" y="265" key="#Unnamed" timestamp="1592621042042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="873" y="265" key="#Unnamed/0.0.1920.1040@0.0.1920.1040" timestamp="1592621042042" />
+    <state x="677" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592621598578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="184" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592621598578" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1591931823806">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1591931823806" />
+    <state x="938" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591787068682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="938" y="290" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591787068682" />
+    <state x="719" y="379" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1592621620011">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="719" y="379" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1592621620011" />
+    <state x="977" y="243" key="DetectedRootsChooserDialog" timestamp="1591873419947">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="977" y="243" key="DetectedRootsChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591873419947" />
+    <state x="980" y="216" key="FileChooserDialogImpl" timestamp="1592808348407">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="980" y="216" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1592808348406" />
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom" timestamp="1592621642514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592621642514" />
+    <state width="1877" height="280" key="GridCell.Tab.0.center" timestamp="1592621642514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592621642514" />
+    <state width="1877" height="280" key="GridCell.Tab.0.left" timestamp="1592621642514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592621642514" />
+    <state width="1877" height="280" key="GridCell.Tab.0.right" timestamp="1592621642514">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592621642514" />
+    <state x="812" y="171" key="Maven.ArtifactSearchDialog" timestamp="1591771809703">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="812" y="171" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591771809703" />
+    <state x="863" y="229" key="NewModule_or_Project.wizard" timestamp="1592384778619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="863" y="229" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1592384778619" />
+    <state x="703" y="103" key="SettingsEditor" timestamp="1592384784086">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="703" y="103" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592384784086" />
+    <state x="921" y="426" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1591872865963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="921" y="426" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1591872865963" />
+    <state x="879" y="246" key="run.anything.popup" timestamp="1591773481213">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="879" y="246" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591773481213" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1591931999722">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1591931999722" />
+  </component>
+</project>
