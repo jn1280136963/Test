@@ -13,7 +13,7 @@ public class App {
         User user=ac.getBean("user",User.class);
         user.dopost();
         System.out.println(user);
-         System.out.println(“hello”);
+         System.out.println("hello");
         ac.close();
     }
 }
